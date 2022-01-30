@@ -1,0 +1,8 @@
+
+выключить 3 выключить
+вк 0 vk.com
+запись 1 C:/Users/feede/PycharmProjects/pythonProject5/todo.txt
+прочитай 2 C:/Users/feede/PycharmProjects/pythonProject5/todo.txt
+говно 0 vk.com
+вк 0 vk.com
+зуй 0 пошел нахуй
